@@ -76,7 +76,11 @@ CREATE TABLE produk (
 **1. Clone atau copy project**
 ```bash
 # Jika menggunakan Git
-git clone https://github.com/shizukaudzri/ujian-lab-Fardan.git
+git clone https://github.com/# Jika menggunakan Git
+git clone https://github.com/fardan/ujian-lab-Fardan.git
+
+# Letakkan folder di dalam:
+C:/xampp/htdocs/ujian lab Fardan//ujian-lab-Fardan.git
 
 # Letakkan folder di dalam:
 C:/xampp/htdocs/ujian lab Fardan/
