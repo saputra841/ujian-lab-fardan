@@ -1,4 +1,4 @@
-# 📦 Ujian Lab Shizukaa — CRUD Produk
+# 📦 Ujian Lab Fardan — CRUD Produk
 
 Aplikasi web berbasis **PHP Native** untuk mengelola data produk menggunakan operasi **CRUD** (Create, Read, Update, Delete). Dibangun sebagai bagian dari Ujian Laboratorium menggunakan XAMPP sebagai web server lokal.
 
@@ -76,17 +76,17 @@ CREATE TABLE produk (
 **1. Clone atau copy project**
 ```bash
 # Jika menggunakan Git
-git clone https://github.com/shizukaudzri/ujian-lab-Shizukaa.git
+git clone https://github.com/shizukaudzri/ujian-lab-Fardan.git
 
 # Letakkan folder di dalam:
-C:/xampp/htdocs/ujian lab riskhan/
+C:/xampp/htdocs/ujian lab Fardan/
 ```
 
 **2. Buat folder `gambar`**
 
 Buat folder bernama `gambar` di dalam folder project untuk menyimpan gambar produk.
 ```
-ujian lab riskhan/
+ujian lab Fardan/
 └── gambar/   ← Buat folder ini
 ```
 
@@ -121,11 +121,11 @@ $nama_db = "ukk";
 
 Buka browser dan akses:
 ```
-http://localhost/ujian%20lab%20riskhan/
+http://localhost/ujian%20lab%20Fardan/
 ```
 atau:
 ```
-http://localhost/ujian lab riskhan/
+http://localhost/ujian lab Fardan/
 ```
 
 ---
@@ -149,5 +149,5 @@ Project ini dibuat untuk tujuan ujian laboratorium. Jika ingin berkontribusi, si
 
 ## 👨‍💻 Author
 
-**Shizukaa (shizukaudzri)**
+
 > Dibuat untuk Ujian Laboratorium 2024
